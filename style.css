@@ -1,0 +1,42 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: beige;
+}
+
+.heading{
+    color:beige;
+    background-color: #f5a8e2;
+    padding: 50px;
+    margin: 50px;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.ingredients{
+    background-color: #f5a8e2;
+    color:#9c3281  ;
+    padding: 20px;
+    margin: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.instructions{
+    background-color: #f5a8e2;
+    color:#9c3281  ;
+    padding: 20px;
+    margin: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+
+}
+
+.video{
+    color:#9c3281
+}
